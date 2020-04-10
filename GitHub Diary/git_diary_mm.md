@@ -6,7 +6,7 @@ NAME | Markus Mueller
 DATE OF BIRTH | 29.06.1982
 LOCATION | Voecklabruck, Austria
 
-![That's me!](mm.jpg)
+![That's me!](/images/mm.jpg)
 
 ### Bio:
 
